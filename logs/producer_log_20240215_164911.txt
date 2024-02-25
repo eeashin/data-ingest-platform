@@ -1,0 +1,6 @@
+Kafka topic: data-topic-1
+Producer sleep time: 0
+Producer Chunk Size: 10
+Total 586292 rows produced
+Execution time: 1.10 minutes
+Rows per second: 8870.22

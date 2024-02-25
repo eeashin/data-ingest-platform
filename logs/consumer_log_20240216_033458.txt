@@ -1,0 +1,7 @@
+Kafka topic: data-topic-1
+Kafka consumer group: data-group-1
+Number of consumers: 1
+batch size: 40
+Total 231889 rows saved
+Execution time: 4.53 minutes
+Rows per second: 852.80

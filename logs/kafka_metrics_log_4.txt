@@ -1,0 +1,20 @@
+
+GROUP           TOPIC           PARTITION  CURRENT-OFFSET  LOG-END-OFFSET  LAG             CONSUMER-ID                                  HOST            CLIENT-ID
+data-group-1    data-topic-1    0          1079781         1081166         1385            rdkafka-49fb2598-a510-450f-b5b8-7289176c75a6 /127.0.0.1      rdkafka
+data-group-1    data-topic-1    1          1074675         1075925         1250            rdkafka-49fb2598-a510-450f-b5b8-7289176c75a6 /127.0.0.1      rdkafka
+data-group-1    data-topic-1    2          1074860         1076234         1374            rdkafka-49fb2598-a510-450f-b5b8-7289176c75a6 /127.0.0.1      rdkafka
+
+GROUP           TOPIC           PARTITION  CURRENT-OFFSET  LOG-END-OFFSET  LAG             CONSUMER-ID                                  HOST            CLIENT-ID
+data-group-1    data-topic-1    0          1087567         1089156         1589            rdkafka-49fb2598-a510-450f-b5b8-7289176c75a6 /127.0.0.1      rdkafka
+data-group-1    data-topic-1    1          1081793         1083424         1631            rdkafka-49fb2598-a510-450f-b5b8-7289176c75a6 /127.0.0.1      rdkafka
+data-group-1    data-topic-1    2          1082731         1084239         1508            rdkafka-49fb2598-a510-450f-b5b8-7289176c75a6 /127.0.0.1      rdkafka
+
+GROUP           TOPIC           PARTITION  CURRENT-OFFSET  LOG-END-OFFSET  LAG             CONSUMER-ID                                  HOST            CLIENT-ID
+data-group-1    data-topic-1    0          1094584         1097019         2435            rdkafka-49fb2598-a510-450f-b5b8-7289176c75a6 /127.0.0.1      rdkafka
+data-group-1    data-topic-1    1          1089505         1091931         2426            rdkafka-49fb2598-a510-450f-b5b8-7289176c75a6 /127.0.0.1      rdkafka
+data-group-1    data-topic-1    2          1089921         1092684         2763            rdkafka-49fb2598-a510-450f-b5b8-7289176c75a6 /127.0.0.1      rdkafka
+
+GROUP           TOPIC           PARTITION  CURRENT-OFFSET  LOG-END-OFFSET  LAG             CONSUMER-ID                                  HOST            CLIENT-ID
+data-group-1    data-topic-1    0          1107824         1108836         1012            rdkafka-49fb2598-a510-450f-b5b8-7289176c75a6 /127.0.0.1      rdkafka
+data-group-1    data-topic-1    1          1101857         1102902         1045            rdkafka-49fb2598-a510-450f-b5b8-7289176c75a6 /127.0.0.1      rdkafka
+data-group-1    data-topic-1    2          1102740         1103821         1081            rdkafka-49fb2598-a510-450f-b5b8-7289176c75a6 /127.0.0.1      rdkafka

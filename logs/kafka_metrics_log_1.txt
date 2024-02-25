@@ -1,0 +1,40 @@
+
+GROUP           TOPIC           PARTITION  CURRENT-OFFSET  LOG-END-OFFSET  LAG             CONSUMER-ID                                  HOST             CLIENT-ID
+data-group-1    data-topic-1    0          392360          395037          2677            rdkafka-386eb2e1-ddbb-4c02-ba94-a5e5f4a698a1 /0:0:0:0:0:0:0:1 rdkafka
+data-group-1    data-topic-1    2          386255          386255          0               rdkafka-9db48c88-a22c-4758-8f27-570fd1a43499 /0:0:0:0:0:0:0:1 rdkafka
+data-group-1    data-topic-1    1          388108          391292          3184            rdkafka-38a7919c-aec7-4eeb-bbef-b2ab188374fa /0:0:0:0:0:0:0:1 rdkafka
+
+GROUP           TOPIC           PARTITION  CURRENT-OFFSET  LOG-END-OFFSET  LAG             CONSUMER-ID                                  HOST             CLIENT-ID
+data-group-1    data-topic-1    0          392365          395037          2672            rdkafka-386eb2e1-ddbb-4c02-ba94-a5e5f4a698a1 /0:0:0:0:0:0:0:1 rdkafka
+data-group-1    data-topic-1    2          386255          386255          0               rdkafka-9db48c88-a22c-4758-8f27-570fd1a43499 /0:0:0:0:0:0:0:1 rdkafka
+data-group-1    data-topic-1    1          388113          391292          3179            rdkafka-38a7919c-aec7-4eeb-bbef-b2ab188374fa /0:0:0:0:0:0:0:1 rdkafka
+
+GROUP           TOPIC           PARTITION  CURRENT-OFFSET  LOG-END-OFFSET  LAG             CONSUMER-ID                                  HOST             CLIENT-ID
+data-group-1    data-topic-1    0          392400          395037          2637            rdkafka-386eb2e1-ddbb-4c02-ba94-a5e5f4a698a1 /0:0:0:0:0:0:0:1 rdkafka
+data-group-1    data-topic-1    2          386255          386255          0               rdkafka-9db48c88-a22c-4758-8f27-570fd1a43499 /0:0:0:0:0:0:0:1 rdkafka
+data-group-1    data-topic-1    1          388148          391292          3144            rdkafka-38a7919c-aec7-4eeb-bbef-b2ab188374fa /0:0:0:0:0:0:0:1 rdkafka
+
+GROUP           TOPIC           PARTITION  CURRENT-OFFSET  LOG-END-OFFSET  LAG             CONSUMER-ID                                  HOST             CLIENT-ID
+data-group-1    data-topic-1    0          392455          395037          2582            rdkafka-386eb2e1-ddbb-4c02-ba94-a5e5f4a698a1 /0:0:0:0:0:0:0:1 rdkafka
+data-group-1    data-topic-1    2          386255          386255          0               rdkafka-9db48c88-a22c-4758-8f27-570fd1a43499 /0:0:0:0:0:0:0:1 rdkafka
+data-group-1    data-topic-1    1          388203          391292          3089            rdkafka-38a7919c-aec7-4eeb-bbef-b2ab188374fa /0:0:0:0:0:0:0:1 rdkafka
+
+GROUP           TOPIC           PARTITION  CURRENT-OFFSET  LOG-END-OFFSET  LAG             CONSUMER-ID                                  HOST             CLIENT-ID
+data-group-1    data-topic-1    0          392540          395037          2497            rdkafka-386eb2e1-ddbb-4c02-ba94-a5e5f4a698a1 /0:0:0:0:0:0:0:1 rdkafka
+data-group-1    data-topic-1    2          386255          386255          0               rdkafka-9db48c88-a22c-4758-8f27-570fd1a43499 /0:0:0:0:0:0:0:1 rdkafka
+data-group-1    data-topic-1    1          388288          391292          3004            rdkafka-38a7919c-aec7-4eeb-bbef-b2ab188374fa /0:0:0:0:0:0:0:1 rdkafka
+
+GROUP           TOPIC           PARTITION  CURRENT-OFFSET  LOG-END-OFFSET  LAG             CONSUMER-ID                                  HOST             CLIENT-ID
+data-group-1    data-topic-1    0          392579          395037          2458            rdkafka-386eb2e1-ddbb-4c02-ba94-a5e5f4a698a1 /0:0:0:0:0:0:0:1 rdkafka
+data-group-1    data-topic-1    2          386255          386255          0               rdkafka-9db48c88-a22c-4758-8f27-570fd1a43499 /0:0:0:0:0:0:0:1 rdkafka
+data-group-1    data-topic-1    1          388327          391292          2965            rdkafka-38a7919c-aec7-4eeb-bbef-b2ab188374fa /0:0:0:0:0:0:0:1 rdkafka
+
+GROUP           TOPIC           PARTITION  CURRENT-OFFSET  LOG-END-OFFSET  LAG             CONSUMER-ID                                  HOST             CLIENT-ID
+data-group-1    data-topic-1    0          392584          395037          2453            rdkafka-386eb2e1-ddbb-4c02-ba94-a5e5f4a698a1 /0:0:0:0:0:0:0:1 rdkafka
+data-group-1    data-topic-1    2          386255          386255          0               rdkafka-9db48c88-a22c-4758-8f27-570fd1a43499 /0:0:0:0:0:0:0:1 rdkafka
+data-group-1    data-topic-1    1          388332          391292          2960            rdkafka-38a7919c-aec7-4eeb-bbef-b2ab188374fa /0:0:0:0:0:0:0:1 rdkafka
+
+GROUP           TOPIC           PARTITION  CURRENT-OFFSET  LOG-END-OFFSET  LAG             CONSUMER-ID                                  HOST             CLIENT-ID
+data-group-1    data-topic-1    0          392589          395037          2448            rdkafka-386eb2e1-ddbb-4c02-ba94-a5e5f4a698a1 /0:0:0:0:0:0:0:1 rdkafka
+data-group-1    data-topic-1    2          386255          386255          0               rdkafka-9db48c88-a22c-4758-8f27-570fd1a43499 /0:0:0:0:0:0:0:1 rdkafka
+data-group-1    data-topic-1    1          388337          391292          2955            rdkafka-38a7919c-aec7-4eeb-bbef-b2ab188374fa /0:0:0:0:0:0:0:1 rdkafka
