@@ -1,0 +1,5 @@
+.DS_Store
+mongomongodb.key
+venv/
+__MACOSX/
+kafka-cluster/
